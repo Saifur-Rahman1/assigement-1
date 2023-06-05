@@ -35,3 +35,17 @@ body{
     color: aliceblue;
     border-radius: 20px;
 }
+.pic{
+    width: 300px;
+}
+.box{
+    margin: 10px;
+    width: 30%;
+    float: left;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
