@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
+#family{
+    font-size: 70px;
+    color: lightslategray;
+}
+#name{
+    font-size: 55px;
+    color: #f86a61;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(60deg,rgb(38, 38, 95), rgba(73, 73, 255, 0.753));
+    padding: 17px 30px;
+    color: aliceblue;
+    border-radius: 20px;
+}
+#About{
+    color: lightslategray;
+    font-size: 50px;
+
+}
