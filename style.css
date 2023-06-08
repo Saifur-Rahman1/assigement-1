@@ -1,6 +1,18 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.manu{
+    float: right;
+    display: inherit;
+    padding-right: 90px;
+}
+.manu ul li {
+    text-decoration: none;
+    float: left;
+    list-style-type: none;
+    padding-left: 60px;
+    font-size: 25px;
+}
 .half{
     width: 40%;
     float: left;
