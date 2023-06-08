@@ -96,5 +96,8 @@ footer {
 .footerimg img {
     width: 80px;
     float: left;
-    margin-left: 100px;
+    margin: 10px;
+}
+.footerimg{
+    margin-left: 450px;
 }
