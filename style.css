@@ -62,3 +62,39 @@ p{
 span{
     color: #ff674d;
 }
+#last{
+   border-radius: 10px;
+}
+footer {
+    left: 400px;
+    top: -165px;
+}
+.foot{
+    left: 550px;
+    width: 50%;
+    bottom: 360px;
+}
+
+.foot h3 {
+    left: 42px;
+    top: -10px;
+    font-size: 30px; 
+    margin-left: 500px;
+    color: #f86a61;
+    
+}
+.e-mail {
+    color: wheat;
+    font-size: 40px;
+    left: -54px;
+    top: -22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 400px;
+    color:cyan ;
+}
+.footerimg img {
+    width: 80px;
+    float: left;
+    margin-left: 100px;
+}
