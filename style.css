@@ -86,7 +86,7 @@ p{
 #saifur{
     font-size: 45px;
     text-align: center;
-    width: 880px;
+    width: 850px;
 }
 span{
     color: #ff674d;
@@ -120,7 +120,7 @@ footer {
     text-decoration: none;
     margin-left: 400px;
     color: cyan ;
-    height: 20px;
+    height: 10px;
 }
 .e-mail:hover{
     color: tomato;
@@ -128,7 +128,7 @@ footer {
 }
 
 .footerimg img {
-    width: 80px;
+    width: 70px;
     float: left;
     margin: 10px;
 }
